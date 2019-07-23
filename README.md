@@ -1,3 +1,10 @@
+# Contacts:
+email: lvova_ekaterina@mail.ru
+telegram: @suleesa
+
+
+
+
 # Available tasks
 Hi, here are the testing round tasks for Frontend School at T-Systems.
 
